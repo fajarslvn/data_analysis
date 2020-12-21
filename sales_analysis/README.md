@@ -1,5 +1,7 @@
-###To-Do Lists
+### To-Do Lists
 
-- [] Learn the data
-- [] Data cleaning
-- [] Data analysis
+- [  ] Investigate the sales data
+- [  ] Data cleaning
+- [  ] Manipulating the data
+- [  ] Analysis the data
+- [  ] Make a chart
