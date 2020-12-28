@@ -1,2 +1,2 @@
-# data_analysis
-Repository for Data analysis project
+# Machine Learning
+Repository for Machine Learning project
